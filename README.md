@@ -1,2 +1,2 @@
 # raidbot
-discord raid bot - educational use only
+steps are in the code
